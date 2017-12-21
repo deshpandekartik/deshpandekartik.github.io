@@ -1,2 +1,1 @@
-# deshpandekartik.github.io
-My Personal Homepage 
+# MY personal web site
